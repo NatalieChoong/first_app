@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 ruby '2.1.5'
 #ruby-gemset=railstutorial_rails_4_0
 
-gem 'rails', '4.0.8'
+gem 'rails', '4.1.8'
 
 group :development do
   gem 'mysql2','0.3.18'
